@@ -1,0 +1,26 @@
+
+<swiper indicator-dots="true"  autoplay="true" circular="true" interval="3000" > 
+<swiper-item> <image  src="https://ftp.bmp.ovh/imgs/2019/11/867726926d832d77.jpg"/></swiper-item>
+<swiper-item> <image  src="https://ftp.bmp.ovh/imgs/2019/11/e51bde40883d604a.jpeg"/></swiper-item>
+<swiper-item> <image  src="https://ftp.bmp.ovh/imgs/2019/11/0a74f01df98f4a31.jpg"/></swiper-item>
+</swiper>
+
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+
+<navigator url="../../pages/jiaogong1/jiaogong1">教工食堂一楼</navigator>
+<navigator url="../../pages/jiaogong2/jiaogong2">教工食堂二楼</navigator>
+<navigator url="../../pages/jiaogong3/jiaogong3">教工食堂三楼</navigator>
+<navigator url="../../pages/jiaogong4/jiaogong4">教工食堂四楼</navigator>
+<navigator url="../../pages/jiaogong5/jiaogong5">教工食堂五楼</navigator>
+

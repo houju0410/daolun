@@ -1,0 +1,9 @@
+
+<button  bindtap="getData">查询品尝记录</button>
+<view wx:for="{{datalist}}"  wx:key="item">
+<view>{{item.louceng}}:{{item.jilu}}</view>
+</view>
+
+
+
+

@@ -1,0 +1,7 @@
+/* pages/jiaogong2/jiaogong2.wxss */text{
+font-size: 50rpx;
+}
+image{
+width: 100%
+
+}

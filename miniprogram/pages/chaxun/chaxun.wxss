@@ -1,0 +1,5 @@
+view{
+background: gainsboro;
+bordeer:solid 1rpx red;
+
+} 

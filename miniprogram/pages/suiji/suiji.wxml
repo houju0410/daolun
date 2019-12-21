@@ -1,0 +1,5 @@
+<button bindtap="suiji">点我随机选择楼层</button>
+
+<view >
+<view>{{list[i].name}}</view>
+</view>

@@ -1,0 +1,18 @@
+.yi{
+
+  width: 700rpx;
+  border-radius:40rpx;
+margin: 20rpx;
+height:100rpx;
+min-height:50rpx;
+}
+
+button{
+font-size: 42rpx
+
+}
+
+view{
+font-size: 50rpx
+
+}

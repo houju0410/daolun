@@ -1,0 +1,10 @@
+<button  bindtap="addData">点此添加</button>
+
+<input bindblur="shuru1" class="yi" placeholder="楼层" > </input>
+<input bindblur="shuru" class="yi" placeholder="在此输入对曾经所品尝菜品的评价" >
+
+</input>
+
+
+
+  

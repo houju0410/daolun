@@ -1,0 +1,22 @@
+view{
+font-size: 50rpx;
+margin: 30rpx;
+}
+
+
+.button{
+  position: fixed;
+ bottom:40rpx;
+ 
+ left: 0;
+ right: 0;
+}
+
+.fenxiang{
+position: fixed;
+ bottom:150rpx;
+ 
+ left: 0;
+ right: 0;
+
+}

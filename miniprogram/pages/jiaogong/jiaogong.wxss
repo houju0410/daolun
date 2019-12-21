@@ -1,0 +1,17 @@
+/* pages/jiaogong/jiaogong.wxss */navigator{
+width:750rpx;
+font-size: 50rpx;
+line-height: 100rpx;
+text-align: center;
+}
+
+
+swiper{
+width: 100%;
+height:calc(100vw*1080/1920);
+
+}
+image{
+
+  width:100%
+}

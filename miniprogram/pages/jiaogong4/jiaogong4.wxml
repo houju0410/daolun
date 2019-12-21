@@ -1,0 +1,52 @@
+<text>1.淮南牛肉汤</text>
+<image src="https://pic3.superbed.cn/item/5deb2075f1f6f81c50328409.png" mode="widthFix"></image>
+
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>2.小火锅</text>
+<image src="https://pic3.superbed.cn/item/5deb20c2f1f6f81c503291c9.jpg" mode="widthFix"></image>
+
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>3.水饺</text>
+<image src="https://pic1.superbed.cn/item/5deb20f5f1f6f81c50329de4.jpg" mode="widthFix"></image>
+
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>4.烤鸭套餐</text>
+<image src="https://pic2.superbed.cn/item/5deb2124f1f6f81c5032a6ac.jpg" mode="widthFix"></image>
+
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>5.砂锅系列</text>
+<image src="https://pic3.superbed.cn/item/5deb2181f1f6f81c5032b6dc.png" mode="widthFix"></image>
+
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>6.水煮系列</text>
+<image src="https://pic1.superbed.cn/item/5deb21e2f1f6f81c5032c70c.png" mode="widthFix"></image>
