@@ -1,0 +1,70 @@
+{
+  "pages": [
+    "pages/xuesheng/xuesheng",
+    "pages/jiaogong/jiaogong",
+    "pages/wode/wode",
+   
+    "pages/userConsole/userConsole",
+    "pages/index/index",
+    "pages/storageConsole/storageConsole",
+    "pages/databaseGuide/databaseGuide",
+    "pages/addFunction/addFunction",
+    "pages/deployFunctions/deployFunctions",
+    "pages/chooseLib/chooseLib",
+    "pages/openapi/openapi",
+    "pages/openapi/serverapi/serverapi",
+    "pages/openapi/callback/callback",
+    "pages/openapi/cloudid/cloudid",
+    "pages/im/im",
+    "pages/im/room/room",
+    "pages/xuesheng1/xuesheng1",
+    "pages/xuesheng2/xuesheng2",
+    "pages/xuesheng3/xuesheng3",
+    "pages/xuesheng4/xuesheng4",
+    "pages/xuesheng5/xuesheng5",
+    "pages/jilu/jilu",
+    "pages/jiaogong1/jiaogong1",
+    "pages/jiaogong2/jiaogong2",
+    "pages/jiaogong3/jiaogong3",
+    "pages/jiaogong4/jiaogong4",
+    "pages/jiaogong5/jiaogong5",
+    "pages/suiji/suiji",
+    "pages/chaxun/chaxun"
+
+    
+    
+  ],
+  "window": {
+    "backgroundColor": "#32CD99",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#32CD99",
+    "navigationBarTitleText": "沙河食堂",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/xuesheng/xuesheng",
+        "text": "学生食堂",
+        "iconPath": "icons/home.png",
+        "selectedIconPath": "icons/home-o.png"
+      },
+      {
+        "pagePath": "pages/jiaogong/jiaogong",
+        "text": "教工食堂",
+        "iconPath": "icons/category.png",
+        "selectedIconPath": "icons/category-o.png"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的",
+        "iconPath": "icons/my.png",
+        "selectedIconPath": "icons/my-o.png"
+      }
+    ],
+    "selectedColor": "#000000"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

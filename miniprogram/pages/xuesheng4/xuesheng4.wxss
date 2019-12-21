@@ -1,0 +1,7 @@
+/* miniprogram/pages/xuesheng4/xuesheng4.wxss */text{
+font-size: 50rpx;
+}
+image{
+width: 100%
+
+}

@@ -1,0 +1,20 @@
+/* pages/xuesheng/xuesheng.wxss */
+navigator{
+width:750rpx;
+font-size: 50rpx;
+text-align: center;
+line-height: 100rpx;
+
+}
+
+
+swiper{
+width: 100%;
+height:calc(100vw*1080/1920);
+
+}
+image{
+
+  width:100%
+}
+

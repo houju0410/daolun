@@ -1,0 +1,20 @@
+<text>1.基本伙</text>
+<image src="https://pic1.superbed.cn/item/5deb1d52f1f6f81c5031f842.jpg" mode="widthFix"></image>
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>2.麻辣香锅</text>
+<image src="https://pic2.superbed.cn/item/5deb1df7f1f6f81c503211b0.jpg" mode="widthFix"></image>
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>3.烧麦</text>
+<image src="https://pic2.superbed.cn/item/5deb1e23f1f6f81c5032190d.jpg" mode="widthFix"></image>

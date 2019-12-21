@@ -1,0 +1,25 @@
+
+<view>
+<navigator url="../../pages/jilu/jilu">添加品尝记录</navigator>
+</view>
+
+<view>
+<navigator url="../../pages/chaxun/chaxun" >查询我的记录</navigator>
+</view>
+
+<view>
+<navigator url="../../pages/suiji/suiji" >随机选择</navigator>
+</view>
+
+
+
+<view class="fenxiang">
+<button type="primary" open-type="share">
+分享给好友</button>
+</view>
+
+
+<view class="button">
+<button type="primary" open-type="contact">
+联系我们</button>
+</view>

@@ -1,0 +1,39 @@
+<text>1·原味掉渣饼</text>
+<image src="https://ftp.bmp.ovh/imgs/2019/12/31b8d2061d4c4bf5.jpg"  mode="widthFix"> </image>
+
+<view >
+<view >
+<text  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+
+<text>2·蛋包饭</text>
+<image src="https://ftp.bmp.ovh/imgs/2019/12/299a26f4b3de6348.png" mode="widthFix"></image>
+
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>3·波波鱼</text>
+<image src="https://ftp.bmp.ovh/imgs/2019/12/dd0c5797c304802c.jpg" mode="widthFix"></image>
+
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>4·烤冷面 烤肉饭</text>
+<image src="https://ftp.bmp.ovh/imgs/2019/12/08957a7ce13d2286.jpg" mode="widthFix"></image>
+
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+<text>5·奶茶店</text>
+<image src="https://ftp.bmp.ovh/imgs/2019/12/4c2bc8a352400640.jpg" mode="widthFix"></image>

@@ -1,0 +1,16 @@
+view{
+
+font-size: 120rpx;
+text-align: center;
+height: 200rpx;
+line-height: 900rpx
+
+}
+
+button{
+  position: fixed;
+ bottom:100rpx;
+ font-size: 40rpx;
+ left: 0;
+ right: 0;
+} 

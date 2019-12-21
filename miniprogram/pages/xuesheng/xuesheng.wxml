@@ -1,0 +1,27 @@
+<swiper indicator-dots="true"  autoplay="true" circular="true" interval="3000" > 
+<swiper-item> <image mode="widthFix" mode="widthFix"  src="https://ftp.bmp.ovh/imgs/2019/11/f214753bb4d76937.jpeg"/></swiper-item>
+<swiper-item> <image mode="widthFix" mode="widthFix" src="https://ftp.bmp.ovh/imgs/2019/11/025aeb832f0a24ef.jpg"/></swiper-item>
+<swiper-item> <image mode="widthFix" mode="widthFix" src="https://ftp.bmp.ovh/imgs/2019/11/ea699491f20c81ae.jpg"/></swiper-item>
+</swiper>   
+    
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+
+<view class="container">
+<view class="usermotto">
+<text class="user-motto"  decode="{{true}}">&nbsp;</text>
+</view>
+</view>
+
+
+
+<navigator url="../../pages/xuesheng1/xuesheng1">学生食堂一楼</navigator>
+<navigator url="../../pages/xuesheng2/xuesheng2">学生食堂二楼</navigator>
+<navigator url="../../pages/xuesheng3/xuesheng3">学生食堂三楼</navigator>
+<navigator url="../../pages/xuesheng4/xuesheng4">学生食堂四楼</navigator>
+<navigator url="../../pages/xuesheng5/xuesheng5">学生食堂五楼</navigator>
+
